@@ -8,26 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "object.html",
-			"settings":
-			{
-				"buffer_size": 71,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "object.php",
 			"settings":
 			{
-				"buffer_size": 1200,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/milan/Code/phpmyadmin/setup/config.php",
-			"settings":
-			{
-				"buffer_size": 2383,
+				"buffer_size": 1197,
 				"line_ending": "Unix"
 			}
 		}
@@ -56,12 +40,16 @@
 	},
 	"file_history":
 	[
+		"/home/milan/.cache/.fr-lsb2tC/spwa-demo-rev01/index.php",
+		"/home/milan/Code/fitl-app-basic/object-2.php",
+		"/home/milan/Code/fitl-app-basic/fitl-basics.html",
+		"/home/milan/Code/fitl-app-basic/object.html",
+		"/home/milan/Code/phpmyadmin/setup/config.php",
 		"/home/milan/homestead/homestead",
 		"/home/milan/Code/fitl-app-basic/object-1.php",
 		"/home/milan/Code/fitl-app-basic/object.php",
 		"/opt/lampp/htdocs/learntocode/skole.html",
 		"/home/milan/Code/php-vezbe/index.php",
-		"/home/milan/Code/fitl-app-basic/object.html",
 		"/etc/hosts",
 		"/opt/lampp/htdocs/tp/montex/menu/newmenu.php",
 		"/opt/lampp/htdocs/tp/montex/index.php",
@@ -140,49 +128,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "object.html",
-					"settings":
-					{
-						"buffer_size": 71,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "object.php",
 					"settings":
 					{
-						"buffer_size": 1200,
+						"buffer_size": 1197,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1161,
-								1161
+								890,
+								890
 							]
 						],
 						"settings":
@@ -190,35 +152,7 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 153.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/milan/Code/phpmyadmin/setup/config.php",
-					"settings":
-					{
-						"buffer_size": 2383,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 510.0,
+						"translation.y": 382.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -232,7 +166,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{

@@ -41,7 +41,8 @@ if ($result->num_rows > 0){
 	// echo '</pre>';
 
 }
-
+// include view 
+include "question-show-view.php";
 ?>
 <!DOCTYPE html>
 <html>
